@@ -2,8 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #051239;
+    color: #fff
 }
+
 h1 {
     color: #000;
     text-align: center;
@@ -14,7 +16,7 @@ h2 {
 }
 p {
     line-height: 1.6;
-    color: ;
+    color: #000;
 }
 .mission, .vision, .values {
     padding: 15px;
